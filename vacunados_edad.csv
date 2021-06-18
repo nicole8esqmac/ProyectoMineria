@@ -1,0 +1,8 @@
+﻿V1,Grupo_etario_años,poblacion,Dosis_administradas_primera_dosis,Porcentaje_con_primera_dosis,Dosis_administradas_esquema_completo,Porcentaje_con_esquema_completo
+0,18 a 29 años,119624,1320,1.1,332,.28
+0,30 a 39 años,69824,1026,1.47,303,.43
+0,40 a 49 años,46115,515,1.12,135,.29
+0,50 a 59 años,28295,313,1.11,60,.21
+0,60 a 69 años,16772,616,3.67,24,.14
+0,70 años y más,14264,2284,16.01,7,.05
+0,Total,294894,6074,2.06,861,.29
